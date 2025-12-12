@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+openpyxl
+
+# Optional for better fonts on some Linux systems
+# matplotlib-fonts
+rapidfuzz

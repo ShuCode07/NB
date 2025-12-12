@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+.venv/
+venv/
+*.pyc
+
+# Data
+*.xlsx
+*.xls
+*.csv
+exports/
+
+# Streamlit local config
+.streamlit/*.local.toml
+
+# OS
+.DS_Store
+thumbs.db
